@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816671823552",
+    "firebase_url": "https://hotelreservation-76614.firebaseio.com",
+    "project_id": "hotelreservation-76614",
+    "storage_bucket": "hotelreservation-76614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816671823552:android:d925faf3c4aa6bb431ff25",
+        "android_client_info": {
+          "package_name": "com.mrvijay.hotelappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816671823552-5es78pegog1k6vkj1ibve7pmtejt9372.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFQsA3rqK9NyPmFGBbgzJRlVWDKI5raw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816671823552-5es78pegog1k6vkj1ibve7pmtejt9372.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
